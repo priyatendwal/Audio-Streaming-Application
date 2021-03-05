@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214790605684",
+    "project_id": "audio-streaming-e1fcc",
+    "storage_bucket": "audio-streaming-e1fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214790605684:android:8e524907a09ca0b8c6ba21",
+        "android_client_info": {
+          "package_name": "com.project.audiosteamingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214790605684-jv52lbla5sqssknl7uqego2bm7u9hdb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3VBpNQjS33PtHPRJq3WIKBSkqfJqXUF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214790605684-jv52lbla5sqssknl7uqego2bm7u9hdb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
